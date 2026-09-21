@@ -19,3 +19,5 @@ Quando sua operação não pode parar, a escolha importa. Nuvem corporativa para
   <a href="https://blog.opendatacenter.com.br" target="_blank"><img src="https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog"></a>
   <a href="https://www.reclameaqui.com.br/empresa/open-datacenter-brasil/" target="_blank"><img src="https://img.shields.io/badge/Reclame%20Aqui-00A650?style=for-the-badge&logoColor=white" alt="Reclame Aqui"></a>
 </p>
+
+![](https://komarev.com/ghpvc/?username=odatacenter)
