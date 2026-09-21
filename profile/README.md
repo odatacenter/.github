@@ -3,27 +3,19 @@
 </div>
 
 ###
+# OPEN DATACENTER
 
-<h4 data-importer="text" align="center">Quando sua operação não pode parar, a escolha importa.<br><br>Cloud corporativa para empresas que dependem de ERP, aplicações críticas e crescimento contínuo. <br>Performance previsível. <br>Suporte humano 24/7. <br>Pagamento em reais.</h4>
+Quando sua operação não pode parar, a escolha importa. Nuvem corporativa para empresas que dependem de ERP, aplicações críticas e crescimento contínuo. Performance previsível, suporte humano 24/7, pagamento em reais.
 
-###
-
-<div data-importer="socials" align="center">
-  <a href="https://www.linkedin.com/company/opendatacenter/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/datacenteropen" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.youtube.com/@opendatacenter" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/opendatacenter/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/opendatacenter/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-</div>
-
-###
+<p align="center">
+  <a href="https://www.opendatacenter.com.br" target="_blank"><img src="https://img.shields.io/badge/Site-2B6CB0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site"></a>
+  <a href="https://www.linkedin.com/company/opendatacenter" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/opendatacenter/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.facebook.com/opendatacenter/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://www.youtube.com/@opendatacenter" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://x.com/datacenteropen" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.tiktok.com/@open.datacenter" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
+  <a href="https://www.threads.com/@opendatacenter" target="_blank"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"></a>
+  <a href="https://blog.opendatacenter.com.br" target="_blank"><img src="https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog"></a>
+  <a href="https://www.reclameaqui.com.br/empresa/open-datacenter-brasil/" target="_blank"><img src="https://img.shields.io/badge/Reclame%20Aqui-00A650?style=for-the-badge&logoColor=white" alt="Reclame Aqui"></a>
+</p>
